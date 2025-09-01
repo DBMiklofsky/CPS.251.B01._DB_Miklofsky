@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CPS251B01_DB_Miklofsky_Starter_Project_1" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.BookExamplesApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
